@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="170115" V="1" DC="SM" EN="Office.Graphics.ARCFailureDetails" ATT="cfcfdb91c68c4329bb8b7cb7babb3cf7-e082c2f2-ef1d-427a-ac4d-b0b700afe7a7-7655" DCa="PSU" xmlns="">
+  <S>
+    <UCSS T="1" C="ARCExceptions" S="Assert Unexpected Monitorable" />
+  </S>
+  <C T="U32" I="0" O="false" N="ErrorCount">
+    <C>
+      <S T="1" />
+    </C>
+  </C>
+  <C T="W" I="1" O="false" N="TagID">
+    <S T="1" F="ULS_TagId" />
+  </C>
+  <C T="W" I="2" O="true" N="HResult">
+    <S T="1" F="HRESULT" M="Ignore" />
+  </C>
+  <T>
+    <S T="1" />
+  </T>
+</R>

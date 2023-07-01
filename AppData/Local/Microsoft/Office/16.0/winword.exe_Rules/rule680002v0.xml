@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="680002" V="0" DC="SM" EN="Office.Translator.TeachingCalloutShown" ATT="e91bcbbe30e44ab28e2e2bce83d446e5-a779473f-d500-4783-ae33-75fd57efee29-6985" DCa="PSU" xmlns="">
+  <S>
+    <UTS T="1" Id="bfhe2" />
+    <F T="2">
+      <O T="EQ">
+        <L>
+          <S T="1" F="TeachingCalloutId" />
+        </L>
+        <R>
+          <V V="TeachingCalloutID_Translator" T="W" />
+        </R>
+      </O>
+    </F>
+  </S>
+  <C T="U32" I="0" O="false" N="TranslatorTeachingCalloutShownCount">
+    <C>
+      <S T="2" />
+    </C>
+  </C>
+  <T>
+    <S T="2" />
+  </T>
+</R>

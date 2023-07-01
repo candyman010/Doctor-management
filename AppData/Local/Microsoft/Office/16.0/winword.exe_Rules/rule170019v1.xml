@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<R Id="170019" V="1" DC="SM" EN="Office.Graphics.GVizARCDevice" ATT="cfcfdb91c68c4329bb8b7cb7babb3cf7-e082c2f2-ef1d-427a-ac4d-b0b700afe7a7-7655" DCa="DC" xmlns="">
+  <S>
+    <UTS T="1" Id="avx8c" />
+  </S>
+  <C T="FT" I="0" O="false" N="CollectionTime">
+    <S T="1" F="TimeStamp100ns" />
+  </C>
+  <C T="U32" I="1" O="true" N="VendorId">
+    <S T="1" F="VendorId" M="Ignore" />
+  </C>
+  <C T="U32" I="2" O="true" N="DeviceId">
+    <S T="1" F="DeviceId" M="Ignore" />
+  </C>
+  <C T="U32" I="3" O="true" N="SubSysId">
+    <S T="1" F="SubSysId" M="Ignore" />
+  </C>
+  <C T="U32" I="4" O="true" N="RevisionId">
+    <S T="1" F="RevisionId" M="Ignore" />
+  </C>
+  <C T="W" I="5" O="true" N="Description">
+    <S T="1" F="Description" M="Ignore" />
+  </C>
+  <C T="U32" I="6" O="true" N="DriverVersionMajor">
+    <S T="1" F="DriverVersionMajor" M="Ignore" />
+  </C>
+  <C T="U32" I="7" O="true" N="DriverVersionMinor">
+    <S T="1" F="DriverVersionMinor" M="Ignore" />
+  </C>
+  <C T="U32" I="8" O="true" N="DriverVersionBuild">
+    <S T="1" F="DriverVersionBuild" M="Ignore" />
+  </C>
+  <C T="U32" I="9" O="true" N="DriverVersionRevision">
+    <S T="1" F="DriverVersionRevision" M="Ignore" />
+  </C>
+  <C T="W" I="10" O="true" N="HardwareID">
+    <S T="1" F="HardwareID" M="Ignore" />
+  </C>
+  <T>
+    <S T="1" />
+  </T>
+</R>

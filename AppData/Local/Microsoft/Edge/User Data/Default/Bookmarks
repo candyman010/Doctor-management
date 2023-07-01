@@ -1,0 +1,59 @@
+{
+   "checksum": "97a4be34bbf5d3bc6488624068052f27",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13327482080364126",
+            "date_last_used": "0",
+            "guid": "88d3fdce-9daa-47e2-b3dc-284527935c81",
+            "id": "7",
+            "name": "V-Tube",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "http://127.0.0.1:5500/VidTube/index.html"
+         }, {
+            "date_added": "13328290074065543",
+            "date_last_used": "0",
+            "guid": "c5c49deb-9ad1-4f70-84e7-f18ee060b969",
+            "id": "9",
+            "name": "WEB TECH_MAY_2023 - Google Drive",
+            "show_icon": false,
+            "source": "user_add",
+            "type": "url",
+            "url": "https://drive.google.com/drive/folders/1aOQOdNPw1fvp2BFKWgRzrBAwyIeUamUY"
+         } ],
+         "date_added": "13326073198865061",
+         "date_last_used": "0",
+         "date_modified": "13328290074065543",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Favorites bar",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13326073198865072",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other favorites",
+         "source": "unknown",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13326073198865074",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile favorites",
+         "source": "unknown",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
